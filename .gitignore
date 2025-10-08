@@ -1,0 +1,16 @@
+Ignorar dependencias de Node
+/recicla-frontend/node_modules
+
+Ignorar archivos temporales y compilados de .NET/C#
+**/.exe
+**/.dll
+**/*.pdb
+[Bb]in/
+[Oo]bj/
+
+Archivos de configuración locales que no deben subirse
+.vs
+.vscode/
+
+Base de datos local (SQLite)
+*.db
